@@ -1,7 +1,6 @@
 ---
 layout: default
 title: CFMIP2015
-group: "navigation"
 ---
 
 <h2>CFMIP - Cloud Feedback Model Intercomparison Project Meeting on Cloud Processes and Cloud Feedbacks</h2>
