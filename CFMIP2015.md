@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2015
+title: CFMIP2015
 group: "navigation"
 ---
 
